@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #874C62;
+}
+header{
+    overflow: hidden;
+}
+.one{
+    width: 70%;
+    height:270px;
+    text-align: center;
+    color: antiquewhite;
+    margin-left: 270px;
+    background-color: #1C6758;
+    margin-top: 130px;
+}
+.one1{
+    float: left;
+    font-size: 20px;
+    margin: 30px;
+    background-color: #2C3333;
+    width: 18%;
+    height: 30px;
+    margin-left: 85px;
+}
+.one2{
+    float: left;
+    font-size: 24px;
+    margin: 30px;
+    background-color: #2C3333;
+    width: 10%;
+    height: 30px;
+}
+.one3{
+    float: left;
+    font-size: 24px;
+    margin: 30px;
+    background-color: #2C3333;
+    width: 10%;
+    height: 30px;
+}
+.one4{
+    float: left;
+    font-size: 12px;
+    margin: 30px;
+    background-color: #2C3333;
+    width: 10%;
+    height: 30px;
+}
+.one5{
+    float: left;
+    font-size: 12px;
+    margin: 30px;
+    background-color: #2C3333;
+    width: 10%;
+    height: 30px;
+}
+.one6{
+    width: 100%;
+    height: 100px;
+}
+section{
+    overflow: hidden;
+}
+.two{
+    width: 70%;
+    height: 230px;
+    background-color: #1C6758;
+    margin-left: 270px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 22px;
+}
+.two1{
+    background-color: #002B5B;
+    width: 16%;
+    height: 80px;
+    margin-left: 564px;
+    margin-top: 30px;
+}
+.two2{
+    margin-top: 20px;
+    color: antiquewhite;
+}
+.footer{
+    overflow: hidden;
+    width: 90%;
+    margin-left: 150px;
+    margin-top: 7px;
+}
+.footer_bar{
+    overflow: hidden;
+}
+.f1{
+    float: left;
+    background-color: #2C3333;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.f2{
+    float: left;
+    background-color: #2C3333;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    margin-left: 7px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.f3{
+    float: left;
+    background-color: #2C3333;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    margin-left: 7px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.f4{
+    float: left;
+    background-color: #2C3333;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    margin-left: 7px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.f5{
+    float: left;
+    background-color: #2C3333;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    margin-left: 7px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.f6{
+    float: left;
+    background-color: #2C3333;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    margin-left: 7px;
+    color: antiquewhite;
+    font-size: 20px;
+}
